@@ -1,2 +1,2 @@
 # hello-world
-My test repository
+My test repository for study
